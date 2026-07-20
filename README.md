@@ -32,7 +32,7 @@
 
 ## 在线访问
  
-Github Pages: [https://dy.2study.top/](https://dy.2study.top/)  
+Github Pages: [https://dy.typewords.cc/](https://dy.typewords.cc/)  
 
 [//]: # (Gitee pages: [https://dy.ttentau.top/]&#40;https://dy.ttentau.top/&#41; &#40;中国地区推荐访问这个地址&#41;  )
 [//]: # (Github pages: [https://zyronon.github.io/douyin/]&#40;https://zyronon.github.io/douyin/&#41;  )
